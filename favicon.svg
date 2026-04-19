@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="סימונוב הובלות">
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#102544"/>
+      <stop offset="100%" stop-color="#1d447b"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#bg)"/>
+  <path d="M14 36c0-8 5-15 13-17h14c4 0 8 2 10 6l4 7v10h-5a6 6 0 0 1-12 0H26a6 6 0 0 1-12 0Z" fill="#fff"/>
+  <path d="M39 26h8c2 0 3 1 4 3l2 4H39Z" fill="#dce7f8"/>
+  <path d="M20 29c2-5 6-8 12-8h6" fill="none" stroke="#f0a43a" stroke-linecap="round" stroke-width="5"/>
+  <path d="M20 34h13" fill="none" stroke="#102544" stroke-linecap="round" stroke-width="3"/>
+  <circle cx="22" cy="43" r="4" fill="#102544"/>
+  <circle cx="42" cy="43" r="4" fill="#102544"/>
+</svg>
