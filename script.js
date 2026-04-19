@@ -1,6 +1,6 @@
 const PHONE_LINK = "tel:0509011040";
 const WHATSAPP_BASE = "https://wa.me/972509011040";
-const WHATSAPP_DEFAULT_MESSAGE = "שלום סימונוב הובלות, אשמח לקבל הצעת מחיר להובלה";
+const WHATSAPP_DEFAULT_MESSAGE = "שלום סייונוב הובלות, אשמח לקבל הצעת מחיר להובלה";
 
 const menuToggle = document.querySelector("[data-menu-toggle]");
 const siteNav = document.querySelector("[data-nav]");
